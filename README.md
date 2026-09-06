@@ -4,6 +4,8 @@
 - 🌐 Languages: French, English, Arabic, German
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/asmaeboutkhourst/
 
+---
+
 ### 🛠️ Tech Stack
 
 #### 🎨 Frontend
@@ -30,7 +32,21 @@
 
 ---
 
+### 💡 Dev Quote of the Day
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASMAE-DEV-SE&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAE-DEV-SE&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark" alt="Dev Quote" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ASMAE-DEV-SE/ASMAE-DEV-SE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ASMAE-DEV-SE&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ASMAE-DEV-SE&layout=compact&theme=dark" alt="Top Languages" />
 </p>
